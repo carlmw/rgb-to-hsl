@@ -1,0 +1,13 @@
+{
+  "name": "rgb-to-hsl",
+  "version": "0.0.1",
+  "description": "Convert an RGB colour to HSL",
+  "author": "Carl Whittaker <carl359@gmail.com>",
+  "keywords": ["colour", "color", "rgb", "hsl"],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}

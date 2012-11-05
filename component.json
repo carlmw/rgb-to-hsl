@@ -1,0 +1,13 @@
+{
+  "name": "rgb-to-hsl",
+  "repo": "carlmw/rgb-to-hsl",
+  "description": "Convert an RGB colour to HSL",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
